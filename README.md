@@ -126,7 +126,7 @@ Permite inserir novos registros de forma intuitiva.
 ### 🔄 Atualização   
 Alterar dados existentes registros é simples e direto.
 
-![Tela de Atualização e Remoção](imagens/tela-atualizacao-remocao.png)
+![Tela de Atualização e Remoção](imagens/tela-atualizacao.png)
 
 ---
 
